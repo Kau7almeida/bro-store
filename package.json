@@ -1,0 +1,19 @@
+{
+  "name": "bro-store",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./app/server.js"
+  },
+  "keywords": [],
+  "author": "Kauã Almeida",
+  "license": "ISC",
+  "description": "Project academy back-end bro-store",
+  "dependencies": {
+    "fastify": "^5.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.3.3"
+  }
+}
